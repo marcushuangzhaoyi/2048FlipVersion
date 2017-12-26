@@ -11,5 +11,5 @@ in the same directory by pressing S
 # example of doing the rotation/flip
 
 This is the start of the game:
-![Image text](https://raw.github.com/marcushuangzhaoyi/2048FlipVersion/master/img-folder/original.jpg)
+![Image text](https://raw.github.com/marcushuangzhaoyi/2048FlipVersion/master/img-folder/original.PNG)
 
