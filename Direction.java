@@ -4,7 +4,7 @@
 // Enumeration Type used to represent a Movement Direction          //
 //  Each Direction object includes the vector of Direction          //
 //                                                                  //
-// 		                                                            //
+// 		                                                          //
 // Date:    10/12/16                                                //
 //------------------------------------------------------------------//
 
