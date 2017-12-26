@@ -70,7 +70,7 @@ public class Gui2048 extends Application {
 
    /** Add your own Instance Variables here */
    //the game name as final value
-   private static final String GAME_NAME = "2048";
+   private static final String GAME_NAME = "2048 flipped";
 
    /**
     * Method to  create the visible part
