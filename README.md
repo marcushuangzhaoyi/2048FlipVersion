@@ -8,5 +8,7 @@ you can flip the board as well. Press H to flip the board horizontally, Press V 
 Press R to rotate the board clockwise, Press A to flip the board anticlockwise. You can also save the board
 in the same directory by pressing S
 
-# example of doing the rotation
+# example of doing the rotation/flip
+
+This is the original picture:
 
