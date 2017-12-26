@@ -14,19 +14,19 @@ This is the start of the game:
 ![Image text](https://raw.github.com/marcushuangzhaoyi/2048FlipVersion/master/img-folder/original.PNG)
 
 Then press R I get(clockwise rotation): 
-![Image text](https://raw.github.com/marcushuangzhaoyi/2048FlipVersion/master/img-folder/R once.PNG)
+![Image text](https://raw.github.com/marcushuangzhaoyi/2048FlipVersion/master/img-folder/R-once.PNG)
 
 From start of the game, press A: 
-![Image text](https://raw.github.com/marcushuangzhaoyi/2048FlipVersion/master/img-folder/A once.PNG)
+![Image text](https://raw.github.com/marcushuangzhaoyi/2048FlipVersion/master/img-folder/A-once.PNG)
 
 To show the flipping better I use this picture to show the state of the game after playing for a while:
 ![Image text](https://raw.github.com/marcushuangzhaoyi/2048FlipVersion/master/img-folder/original-2.PNG)
 
 Then press H:
-![Image text](https://raw.github.com/marcushuangzhaoyi/2048FlipVersion/master/img-folder/H once.PNG)
+![Image text](https://raw.github.com/marcushuangzhaoyi/2048FlipVersion/master/img-folder/H-once.PNG)
 
 Or press V:
-![Image text](https://raw.github.com/marcushuangzhaoyi/2048FlipVersion/master/img-folder/V once.PNG)
+![Image text](https://raw.github.com/marcushuangzhaoyi/2048FlipVersion/master/img-folder/V-once.PNG)
 
 
 # ENJOY THE GAME!
